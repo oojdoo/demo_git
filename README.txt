@@ -6,6 +6,6 @@ Démo de git
 
 [3] Un fichier hello.py pour afficher "Hello, world!" en Python 3.
 
-Auteur : _JDo_
+Auteur : oojdoo
 
 Date : 2017/08/13
